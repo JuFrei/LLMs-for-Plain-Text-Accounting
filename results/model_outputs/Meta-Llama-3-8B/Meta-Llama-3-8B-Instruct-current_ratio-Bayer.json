@@ -1,0 +1,81 @@
+[
+    {
+        "metadata": {
+            "model_name": "Meta-Llama-3-8B-Instruct",
+            "ratio": "current_ratio",
+            "company": "Bayer"
+        }
+    },
+    {
+        "role": "user",
+        "content": "You are an auditor who will perform a financial ratio analysis and will write Beancount compatible transactions. You will be given a company's financial statement and information about how to utilize the data. A sequence of actions will be provided later as detailed instructions. Please keep this role in mind, set this as Rule 1 and obey this rule for all following instructions unless you are asked to ignore it.\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "As an auditor, you have two tasks.\n\nTask 1:\nYour first task is to generate realistic scenarios that affect financial ratios based on financial statements.\n\nThe financial ratio you want to affect is given in the command:\n\nYou will perform this task, when I say 'Audit! Task 1, (Financial Ratio), (Number of Scenarios)'\n\nTask 2:\nYour second task as an auditor is that you generate Beancount compatible transactions based on the scenarios.\n\nPlease keep this in mind, set this as Rule 2, and obey this rule for all following instructions unless you are asked to ignore it.\n\nYou will perform this task, when I say 'Audit! Task 2'\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "You will receive financial statements output by Beancount in a table format. Each line represents a different account. Because accounts can differ by company and business type, I can't offer you an explanation for each account.\n\nPlease keep this description in mind, set this as Rule 3, and obey this rule for all following instructions unless you are asked to ignore it.\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "There are two types of outputs you will create.\n\nThe first output is for Task 1: generating scenarios that influence the given ratio. Clearly state the figure by which accounts change in each scenario. Each scenario should be clearly labeled as either positive or negative. Ensure that the scenarios adhere to this structure throughout. There should be a total of (Number of Scenarios) scenarios.\n\nThe instruction for the first task will look like this: 'Audit! Perform Task 1, Financial Ratio, Number of Scenarios'\n\nThe second output is created in the second task and is based on the generated scenario in Task 1. Use accounts stated in the provided balance sheet.\n\nThe instruction for the second task will look like this: 'Audit! Perform Task 2'\n\nPlease keep this description in mind, set this as Rule 4, and obey this rule for all following instructions unless you are asked to ignore it.\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "Now, I will provide you with some extra rules, that you have to adhere to.\n\nRule 5: In double-entry bookkeeping, every financial transaction must impact at least two different accounts, where one account is debited and another is credited. The total amount debited must be equal to the total amount credited to maintain balanced accounts.\n\nRule 6: The generated scenarios have to state the affected accounts clearly. If current and non-current accounts have the same name, you need to specify whether the account is current or non-current.\n\nRule 7: The Beancount transactions have to be possible and have to adhere to accounting standards. In Beancount the liabilities and equity are portrayed as negative numbers. So if a liability (or equity) decreases, the liability (or equity) transaction has to be positive. If it increases, the transaction has to be negative.\n\nRule 8: You must generate as many transactions as there are scenarios. You may not omit any transactions during generation.\n\nPlease keep this description in mind, set this as Rule 5, Rule 6, Rule 7 and Rule 8, and obey these rules for all following instructions unless you are asked to ignore it.\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "In the following, I'm providing you with an example of what the input data and what the expected output data for both tasks is.\n\nInput Data:\nAssets:Current:AssetsClassifiedAsHeldForDisposal 177 EUR\nAssets:Current:CashAndCashEquivalents 7623 EUR\nAssets:Current:CurrentIncomeTaxAssets 581 EUR\nAssets:Current:Inventories 10000 EUR\nAssets:Current:OtherAssets 1725 EUR\nAssets:Current:OtherFinancialAssets 11161 EUR\nAssets:Current:TradeAndOtherReceivables 7159 EUR\nAssets:NonCurrent:DeferredTaxAssets 2511 EUR\nAssets:NonCurrent:Goodwill 30766 EUR\nAssets:NonCurrent:OtherAssets 2505 EUR\nAssets:NonCurrent:OtherFinancialAssets 24403 EUR\nAssets:NonCurrent:PropertyPlantAndEquipment 12114 EUR\nEquity:CapitalReserve -7393 EUR\nEquity:IssuedCapital -2400 EUR\nEquity:NonControllingInterests -5026 EUR\nEquity:OtherComponentsOfEquity -2392 EUR\nEquity:RetainedEarnings -32923 EUR\nEquity:TreasurySharesAtCost 1310 EUR\nLiabilities:Current:ContractLiabilities -3258 EUR\nLiabilities:Current:IncomeTaxLiabilities -1753 EUR\nLiabilities:Current:OtherFinancialLiabilities -2132 EUR\nLiabilities:Current:OtherLiabilities -6690 EUR\nLiabilities:Current:Provisions -2449 EUR\nLiabilities:Current:ShortTermDebt -7135 EUR\nLiabilities:Current:TradePayables -8947 EUR\nLiabilities:NonCurrent:DeferredTaxLiabilities -1854 EUR\nLiabilities:NonCurrent:LongTermDebt -23111 EUR\nLiabilities:NonCurrent:OtherFinancialLiabilities -1108 EUR\nLiabilities:NonCurrent:OtherLiabilities -2077 EUR\nLiabilities:NonCurrent:Provisions -1387 EUR\n\nThe input data should not be included in the output. Below is the expected output for Task 1 and Task 2. In your task outputs, you must adhere to the example's structure.\n\nTask 1 Output Data for a change in the current ratio:\nSCENARIO 1\nDescription: The company uses 500 EUR in cash to repay current other financial liabilities.\nEffect: Positive\n\nSCENARIO 2\nDescription: The company purchases new inventory worth 200 EUR on credit, increasing the short-term debt.\nEffect: Negative\n\nBelow is the output data for Task 2 which is based on the scenarios generated in Task 1.\n\nTask 2 Output Data:\nTRANSACTION 1\n2024-07-11 * \"Repay current other financial liabilities\"\n  Liabilities:Current:OtherFinancialLiabilities 500 EUR\n  Assets:Current:CashAndCashEquivalents -500 EUR\n\nTRANSACTION 2\n2024-05-29 * \"Purchase of Inventory on Credit\"\n  Liabilities:Current:ShortTermDebt -200 EUR\n  Assets:Current:Inventories 200 EUR\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "The following is a balance sheet of Bayer for the first quarter of 2024. You will base Task 1 and Task 2 on this balance sheet.\n\nAssets:Current:AssetsHeldForSale 14 EUR\nAssets:Current:CashAndCashEquivalents 4725 EUR\nAssets:Current:ClaimsForIncomeTaxRefunds 1531 EUR\nAssets:Current:Inventories 13437 EUR\nAssets:Current:OtherFinancialAssets 4197 EUR\nAssets:Current:OtherReceivables 2069 EUR\nAssets:Current:TradeAccountsReceivable 14194 EUR\nAssets:NonCurrent:DeferredTaxes 5736 EUR\nAssets:NonCurrent:Goodwill 32763 EUR\nAssets:NonCurrent:InvestmentsAccountedUsingEquityMethod 840 EUR\nAssets:NonCurrent:OtherFinancialAssets 2362 EUR\nAssets:NonCurrent:OtherIntangibleAssets 23343 EUR\nAssets:NonCurrent:OtherReceivables 1198 EUR\nAssets:NonCurrent:PropertyPlantAndEquipment 13472 EUR\nEquity:CapitalReserves -18261 EUR\nEquity:CapitalStock -2515 EUR\nEquity:EquityAttributableToNoncontrollingInterest -157 EUR\nEquity:OtherReserves -14829 EUR\nLiabilities:Current:ContractLiabilities -1280 EUR\nLiabilities:Current:FinancialLiabilities -8281 EUR\nLiabilities:Current:IncomeTaxLiabilities -1022 EUR\nLiabilities:Current:OtherLiabilities -2224 EUR\nLiabilities:Current:OtherProvisions -3416 EUR\nLiabilities:Current:RefundLiabilities -8009 EUR\nLiabilities:Current:TradeAccountsPayable -6398 EUR\nLiabilities:NonCurrent:ContractLiabilities -401 EUR\nLiabilities:NonCurrent:DeferredTaxes -783 EUR\nLiabilities:NonCurrent:FinancialLiabilities -37987 EUR\nLiabilities:NonCurrent:IncomeTaxLiabilities -1599 EUR\nLiabilities:NonCurrent:OtherLiabilities -927 EUR\nLiabilities:NonCurrent:OtherProvisions -7678 EUR\nLiabilities:NonCurrent:ProvisionsForPensionsAndOtherPostEmploymentBenefits -4007 EUR\nLiabilities:NonCurrent:RefundLiabilities -107 EUR\n\nPlease do not start auditing until I say 'Audit!'. Instead, you may only return the output message 'Processed - Waiting for next input.' You may not add any extra information or confirmations. You are not allowed to repeat the rules given to you."
+    },
+    {
+        "role": "assistant",
+        "content": "Processed - Waiting for next input."
+    },
+    {
+        "role": "user",
+        "content": "Audit! Perform Task 1, Current Ratio, 20 Scenarios"
+    },
+    {
+        "role": "assistant",
+        "content": "SCENARIO 1\nDescription: The company uses 100 EUR in cash to repay current financial liabilities.\nEffect: Positive\n\nSCENARIO 2\nDescription: The company purchases new inventory worth 100 EUR on credit, increasing the short-term debt.\nEffect: Negative\n\nSCENARIO 3\nDescription: The company receives 100 EUR in claims for income tax refunds.\nEffect: Positive\n\nSCENARIO 4\nDescription: The company writes off 100 EUR of trade accounts receivable.\nEffect: Negative\n\nSCENARIO 5\nDescription: The company receives 100 EUR in other financial assets.\nEffect: Positive\n\nSCENARIO 6\nDescription: The company purchases new property, plant, and equipment worth 100 EUR on credit, increasing the short-term debt.\nEffect: Negative\n\nSCENARIO 7\nDescription: The company receives 100 EUR in other receivables.\nEffect: Positive\n\nSCENARIO 8\nDescription: The company writes off 100 EUR of other financial assets.\nEffect: Negative\n\nSCENARIO 9\nDescription: The company receives 100 EUR in trade accounts payable.\nEffect: Positive\n\nSCENARIO 10\nDescription: The company writes off 100 EUR of other provisions.\nEffect: Negative\n\nSCENARIO 11\nDescription: The company receives 100 EUR in refund liabilities.\nEffect: Positive\n\nSCENARIO 12\nDescription: The company writes off 100 EUR of contract liabilities.\nEffect: Negative\n\nSCENARIO 13\nDescription: The company receives 100 EUR in other liabilities.\nEffect: Positive\n\nSCENARIO 14\nDescription: The company writes off 100 EUR of deferred taxes.\nEffect: Negative\n\nSCENARIO 15\nDescription: The company receives 100 EUR in financial liabilities.\nEffect: Positive\n\nSCENARIO 16\nDescription: The company writes off 100 EUR of income tax liabilities.\nEffect: Negative\n\nSCENARIO 17\nDescription: The company receives 100 EUR in other provisions.\nEffect: Positive\n\nSCENARIO 18\nDescription: The company writes off 100 EUR of provisions for pensions and other post-employment benefits.\nEffect: Negative\n\nSCENARIO 19\nDescription: The company receives 100 EUR in refund liabilities.\nEffect: Positive\n\nSCENARIO 20\nDescription: The company writes off 100 EUR of other receivables.\nEffect: Negative"
+    },
+    {
+        "role": "user",
+        "content": "Audit! Perform Task 2"
+    },
+    {
+        "role": "assistant",
+        "content": "TRANSACTION 1\n2024-07-11 * \"Repay current financial liabilities\"\n  Liabilities:Current:FinancialLiabilities 100 EUR\n  Assets:Current:CashAndCashEquivalents -100 EUR\n\nTRANSACTION 2\n2024-05-29 * \"Purchase of Inventory on Credit\"\n  Liabilities:Current:ShortTermDebt 100 EUR\n  Assets:Current:Inventories 100 EUR\n\nTRANSACTION 3\n2024-07-11 * \"Receive claims for income tax refunds\"\n  Assets:Current:ClaimsForIncomeTaxRefunds 100 EUR\n\nTRANSACTION 4\n2024-05-29 * \"Write off trade accounts receivable\"\n  Assets:Current:TradeAccountsReceivable -100 EUR\n\nTRANSACTION 5\n2024-07-11 * \"Receive other financial assets\"\n  Assets:Current:OtherFinancialAssets 100 EUR\n\nTRANSACTION 6\n2024-05-29 * \"Purchase of Property, Plant, and Equipment on Credit\"\n  Liabilities:Current:ShortTermDebt 100 EUR\n  Assets:NonCurrent:PropertyPlantAndEquipment 100 EUR\n\nTRANSACTION 7\n2024-07-11 * \"Receive other receivables\"\n  Assets:Current:OtherReceivables 100 EUR\n\nTRANSACTION 8\n2024-05-29 * \"Write off other financial assets\"\n  Assets:Current:OtherFinancialAssets -100 EUR\n\nTRANSACTION 9\n2024-07-11 * \"Receive trade accounts payable\"\n  Liabilities:Current:TradeAccountsPayable 100 EUR\n\nTRANSACTION 10\n2024-05-29 * \"Write off other provisions\"\n  Liabilities:Current:OtherProvisions -100 EUR\n\nTRANSACTION 11\n2024-07-11 * \"Receive refund liabilities\"\n  Liabilities:Current:RefundLiabilities 100 EUR\n\nTRANSACTION 12\n2024-05-29 * \"Write off contract liabilities\"\n  Liabilities:Current:ContractLiabilities -100 EUR\n\nTRANSACTION 13\n2024-07-11 * \"Receive other liabilities\"\n  Liabilities:Current:OtherLiabilities 100 EUR\n\nTRANSACTION 14\n2024-05-29 * \"Write off deferred taxes\"\n  Liabilities:NonCurrent:DeferredTaxes -100 EUR\n\nTRANSACTION 15\n2024-07-11 * \"Receive financial liabilities\"\n  Liabilities:NonCurrent:FinancialLiabilities 100 EUR\n\nTRANSACTION 16\n2024-05-29 * \"Write off income tax liabilities\"\n  Liabilities:NonCurrent:IncomeTaxLiabilities -100 EUR\n\nTRANSACTION 17\n2024-07-11 * \"Receive other provisions\"\n  Liabilities:NonCurrent:OtherProvisions 100 EUR\n\nTRANSACTION 18\n2024-05-29 * \"Write off provisions for pensions and other post-employment benefits\"\n  Liabilities:NonCurrent:ProvisionsForPensionsAndOtherPostEmploymentBenefits -100 EUR\n\nTRANSACTION 19\n2024-07-11 * \"Receive refund liabilities\"\n  Liabilities:NonCurrent:RefundLiabilities 100 EUR\n\nTRANSACTION 20\n2024-05-29 * \"Write off other receivables\"\n  Assets:NonCurrent:OtherReceivables -100 EUR"
+    }
+]

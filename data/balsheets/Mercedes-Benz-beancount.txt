@@ -1,0 +1,85 @@
+; Opening balances
+2024-01-01 open Assets:Current:Inventories
+2024-01-01 open Assets:Current:TradeReceivables
+2024-01-01 open Assets:Current:ReceivablesFromFinancialServices
+2024-01-01 open Assets:Current:CashAndCashEquivalents
+2024-01-01 open Assets:Current:MarketableDebtSecurities
+2024-01-01 open Assets:Current:OtherFinancialAssets
+2024-01-01 open Assets:Current:OtherAssets
+2024-01-01 open Assets:Current:AssetsHeldForSale
+
+2024-01-01 open Assets:NonCurrent:Intangible
+2024-01-01 open Assets:NonCurrent:PropertyPlantAndEquipment
+2024-01-01 open Assets:NonCurrent:EquipmentOnOperatingLeases
+2024-01-01 open Assets:NonCurrent:EquityMethodInvestments
+2024-01-01 open Assets:NonCurrent:ReceivablesFromFinancialServices
+2024-01-01 open Assets:NonCurrent:MarketableDebtSecurities
+2024-01-01 open Assets:NonCurrent:OtherFinancialAssets
+2024-01-01 open Assets:NonCurrent:DeferredTaxAssets
+2024-01-01 open Assets:NonCurrent:OtherAssets
+
+2024-01-01 open Liabilities:Current:TradePayables
+2024-01-01 open Liabilities:Current:ProvisionsForOtherRisks
+2024-01-01 open Liabilities:Current:FinancingLiabilities
+2024-01-01 open Liabilities:Current:OtherFinancialLiabilities
+2024-01-01 open Liabilities:Current:DeferredIncome
+2024-01-01 open Liabilities:Current:ContractAndRefundLiabilities
+2024-01-01 open Liabilities:Current:OtherLiabilities
+2024-01-01 open Liabilities:Current:LiabilitiesHeldForSale
+
+2024-01-01 open Liabilities:NonCurrent:ProvisionsForPensions
+2024-01-01 open Liabilities:NonCurrent:ProvisionsForOtherRisks
+2024-01-01 open Liabilities:NonCurrent:FinancingLiabilities
+2024-01-01 open Liabilities:NonCurrent:OtherFinancialLiabilities
+2024-01-01 open Liabilities:NonCurrent:DeferredTaxLiabilities
+2024-01-01 open Liabilities:NonCurrent:DeferredIncome
+2024-01-01 open Liabilities:NonCurrent:ContractAndRefundLiabilities
+2024-01-01 open Liabilities:NonCurrent:OtherLiabilities
+
+2024-01-01 open Equity:ShareCapital
+2024-01-01 open Equity:CapitalReserves
+2024-01-01 open Equity:RetainedEarnings
+2024-01-01 open Equity:OtherReserves
+2024-01-01 open Equity:TreasuryShares
+2024-01-01 open Equity:NonControllingInterests
+
+2024-03-31 * "Balance update as of 31 March 2024"
+  Assets:Current:Inventories                           29,087.00 EUR
+  Assets:Current:TradeReceivables                      6,882.00 EUR
+  Assets:Current:ReceivablesFromFinancialServices      37,962.00 EUR
+  Assets:Current:CashAndCashEquivalents                17,189.00 EUR
+  Assets:Current:MarketableDebtSecurities              6,698.00 EUR
+  Assets:Current:OtherFinancialAssets                  3,967.00 EUR
+  Assets:Current:OtherAssets                           4,183.00 EUR
+  Assets:Current:AssetsHeldForSale                     590.00 EUR
+  Assets:NonCurrent:Intangible                         17,796.00 EUR
+  Assets:NonCurrent:PropertyPlantAndEquipment          26,030.00 EUR
+  Assets:NonCurrent:EquipmentOnOperatingLeases         42,177.00 EUR
+  Assets:NonCurrent:EquityMethodInvestments            13,824.00 EUR
+  Assets:NonCurrent:ReceivablesFromFinancialServices   49,480.00 EUR
+  Assets:NonCurrent:MarketableDebtSecurities           705.00 EUR
+  Assets:NonCurrent:OtherFinancialAssets               4,000.00 EUR
+  Assets:NonCurrent:DeferredTaxAssets                  3,948.00 EUR
+  Assets:NonCurrent:OtherAssets                        2,631.00 EUR
+  Liabilities:Current:TradePayables                    -14,288.00 EUR
+  Liabilities:Current:ProvisionsForOtherRisks          -7,617.00 EUR
+  Liabilities:Current:FinancingLiabilities             -39,651.00 EUR
+  Liabilities:Current:OtherFinancialLiabilities        -5,272.00 EUR
+  Liabilities:Current:DeferredIncome                   -1,466.00 EUR
+  Liabilities:Current:ContractAndRefundLiabilities     -6,794.00 EUR
+  Liabilities:Current:OtherLiabilities                 -3,633.00 EUR
+  Liabilities:Current:LiabilitiesHeldForSale           -190.00 EUR
+  Liabilities:NonCurrent:ProvisionsForPensions         -1,019.00 EUR
+  Liabilities:NonCurrent:ProvisionsForOtherRisks       -7,079.00 EUR
+  Liabilities:NonCurrent:FinancingLiabilities          -68,371.00 EUR
+  Liabilities:NonCurrent:OtherFinancialLiabilities     -1,630.00 EUR
+  Liabilities:NonCurrent:DeferredTaxLiabilities        -7,785.00 EUR
+  Liabilities:NonCurrent:DeferredIncome                -1,232.00 EUR
+  Liabilities:NonCurrent:ContractAndRefundLiabilities  -3,111.00 EUR
+  Liabilities:NonCurrent:OtherLiabilities              -1,183.00 EUR
+  Equity:ShareCapital                                  -3,070.00 EUR
+  Equity:CapitalReserves                               -11,718.00 EUR
+  Equity:RetainedEarnings                              -80,743.00 EUR
+  Equity:OtherReserves                                 -2,924.00 EUR
+  Equity:TreasuryShares                                2,684.00 EUR
+  Equity:NonControllingInterests                       -1,057.00 EUR
