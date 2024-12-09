@@ -1,0 +1,1423 @@
+ID,Scenario,Transaction,Transaction_Error
+CodeL-CaR-Airbus06,,,Missing Transaction
+CodeL-CaR-Airbus08,,,Missing Transaction
+CodeL-CaR-Airbus10,,,Missing Transaction
+CodeL-CaR-Airbus18,,,Missing Transaction
+CodeL-CaR-Bayer05,"The company uses 50% of its cash reserves to cover its short-term liabilities.
+
+",,Missing Transaction
+CodeL-CaR-Bayer06,"The company uses 60% of its cash reserves to cover its short-term liabilities.
+
+",,Missing Transaction
+CodeL-CaR-Bayer14,"The company uses 140% of its cash reserves to cover its short-term liabilities.
+
+",,Missing Transaction
+CodeL-CaR-Deutsche_Telekom03,,,Missing Transaction
+CodeL-CaR-Deutsche_Telekom06,,,Missing Transaction
+CodeL-CaR-Deutsche_Telekom07,,,Missing Transaction
+CodeL-CaR-Deutsche_Telekom18,,,Missing Transaction
+CodeL-CaR-Mercedes-Benz01,"The company uses 50% of its cash to pay for inventory.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz04,"The company uses 50% of its cash to pay for interest expense.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz14,"The company uses 75% of its cash to pay for software purchases.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz16,"The company uses 50% of its cash to pay for marketing expenses.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz17,"The company uses 75% of its cash to pay for legal fees.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz18,"The company uses 25% of its cash to pay for insurance premiums.
+
+",,Missing Transaction
+CodeL-CaR-Mercedes-Benz19,"The company uses 50% of its cash to pay for employee bonuses.
+
+",,Missing Transaction
+CodeL-CaR-SAP11,"The company uses 75% of its cash to pay for supplies.
+
+",,Missing Transaction
+CodeL-CaR-SAP13,"The company uses 50% of its cash to pay for equipment purchases.
+
+",,Missing Transaction
+CodeL-CaR-SAP14,"The company uses 75% of its cash to pay for software purchases.
+
+",,Missing Transaction
+CodeL-CaR-SAP18,"The company uses 25% of its cash to pay for insurance premiums.
+
+",,Missing Transaction
+CodeL-CuR-Airbus05,"Current Assets = 300,000, Current Liabilities = 150,000, Current Ratio = 2
+
+",,Missing Transaction
+CodeL-CuR-Airbus10,"Current Assets = 550,000, Current Liabilities = 275,000, Current Ratio = 2
+
+",,Missing Transaction
+CodeL-CuR-Airbus12,"Current Assets = 650,000, Current Liabilities = 325,000, Current Ratio = 2
+
+",,Missing Transaction
+CodeL-CuR-Airbus14,"Current Assets = 750,000, Current Liabilities = 375,000, Current Ratio = 2
+
+",,Missing Transaction
+CodeL-CuR-Airbus20,"Current Assets = 1,050,000, Current Liabilities = 525,000, Current Ratio = 2
+
+Note: The current ratio is calculated based on the current assets and current liabilities for each ",,Missing Transaction
+CodeL-CuR-Deutsche_Telekom05,,,Missing Transaction
+CodeL-CuR-Deutsche_Telekom09,,,Missing Transaction
+CodeL-CuR-Deutsche_Telekom13,,,Missing Transaction
+CodeL-CuR-Deutsche_Telekom18,,,Missing Transaction
+CodeL-CuR-Mercedes-Benz05,,,Missing Transaction
+CodeL-CuR-Mercedes-Benz06,,,Missing Transaction
+CodeL-CuR-Mercedes-Benz16,,,Missing Transaction
+CodeL-CuR-SAP01,,,Missing Transaction
+CodeL-CuR-SAP03,,,Missing Transaction
+CodeL-CuR-SAP13,,,Missing Transaction
+CodeL-CuR-SAP17,,,Missing Transaction
+CodeL-QR-Airbus04,,,Missing Transaction
+CodeL-QR-Airbus12,,,Missing Transaction
+CodeL-QR-Airbus16,,,Missing Transaction
+CodeL-QR-Airbus19,,,Missing Transaction
+CodeL-QR-Bayer02,,,Missing Transaction
+CodeL-QR-Bayer07,,,Missing Transaction
+CodeL-QR-Bayer10,,,Missing Transaction
+CodeL-QR-Bayer12,,,Missing Transaction
+CodeL-QR-Bayer14,,,Missing Transaction
+CodeL-QR-Bayer15,,,Missing Transaction
+CodeL-QR-Bayer18,,,Missing Transaction
+CodeL-QR-Bayer19,,,Missing Transaction
+CodeL-QR-Bayer20,,,Missing Transaction
+CodeL-QR-Deutsche_Telekom10,,,Missing Transaction
+CodeL-QR-Deutsche_Telekom11,,,Missing Transaction
+CodeL-QR-Mercedes-Benz07,,,Missing Transaction
+CodeL-QR-Mercedes-Benz19,,,Missing Transaction
+CodeL-QR-SAP02,,,Missing Transaction
+CodeL-QR-SAP07,,,Missing Transaction
+CodeL-QR-SAP10,,,Missing Transaction
+CodeL-QR-SAP16,,,Missing Transaction
+CodeL-QR-SAP18,,,Missing Transaction
+CodeQ-CaR-Airbus06,,,Missing Transaction
+CodeQ-CaR-Airbus08,,,Missing Transaction
+CodeQ-CaR-Airbus10,,,Missing Transaction
+CodeQ-CaR-Airbus18,,,Missing Transaction
+CodeQ-CaR-Bayer05,,,Missing Transaction
+CodeQ-CaR-Bayer06,,,Missing Transaction
+CodeQ-CaR-Bayer14,,,Missing Transaction
+CodeQ-CaR-Deutsche_Telekom03,,,Missing Transaction
+CodeQ-CaR-Deutsche_Telekom06,,,Missing Transaction
+CodeQ-CaR-Deutsche_Telekom07,,,Missing Transaction
+CodeQ-CaR-Deutsche_Telekom18,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz01,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz04,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz14,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz16,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz17,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz18,,,Missing Transaction
+CodeQ-CaR-Mercedes-Benz19,,,Missing Transaction
+CodeQ-CaR-SAP11,,,Missing Transaction
+CodeQ-CaR-SAP13,,,Missing Transaction
+CodeQ-CaR-SAP14,,,Missing Transaction
+CodeQ-CaR-SAP18,,,Missing Transaction
+CodeQ-CuR-Airbus05,,,Missing Transaction
+CodeQ-CuR-Airbus10,,,Missing Transaction
+CodeQ-CuR-Airbus12,,,Missing Transaction
+CodeQ-CuR-Airbus14,,,Missing Transaction
+CodeQ-CuR-Airbus20,,,Missing Transaction
+CodeQ-CuR-Deutsche_Telekom05,,,Missing Transaction
+CodeQ-CuR-Deutsche_Telekom09,,,Missing Transaction
+CodeQ-CuR-Deutsche_Telekom13,,,Missing Transaction
+CodeQ-CuR-Deutsche_Telekom18,,,Missing Transaction
+CodeQ-CuR-Mercedes-Benz05,,,Missing Transaction
+CodeQ-CuR-Mercedes-Benz06,,,Missing Transaction
+CodeQ-CuR-Mercedes-Benz16,,,Missing Transaction
+CodeQ-CuR-SAP01,,,Missing Transaction
+CodeQ-CuR-SAP03,,,Missing Transaction
+CodeQ-CuR-SAP13,,,Missing Transaction
+CodeQ-CuR-SAP17,,,Missing Transaction
+CodeQ-QR-Airbus04,,,Missing Transaction
+CodeQ-QR-Airbus12,,,Missing Transaction
+CodeQ-QR-Airbus16,,,Missing Transaction
+CodeQ-QR-Airbus19,,,Missing Transaction
+CodeQ-QR-Bayer02,,,Missing Transaction
+CodeQ-QR-Bayer07,,,Missing Transaction
+CodeQ-QR-Bayer10,,,Missing Transaction
+CodeQ-QR-Bayer12,,,Missing Transaction
+CodeQ-QR-Bayer14,,,Missing Transaction
+CodeQ-QR-Bayer15,,,Missing Transaction
+CodeQ-QR-Bayer18,,,Missing Transaction
+CodeQ-QR-Bayer19,,,Missing Transaction
+CodeQ-QR-Bayer20,,,Missing Transaction
+CodeQ-QR-Deutsche_Telekom10,,,Missing Transaction
+CodeQ-QR-Deutsche_Telekom11,,,Missing Transaction
+CodeQ-QR-Mercedes-Benz07,,,Missing Transaction
+CodeQ-QR-Mercedes-Benz19,,,Missing Transaction
+CodeQ-QR-SAP02,,,Missing Transaction
+CodeQ-QR-SAP07,,,Missing Transaction
+CodeQ-QR-SAP10,,,Missing Transaction
+CodeQ-QR-SAP16,,,Missing Transaction
+CodeQ-QR-SAP18,,,Missing Transaction
+Llama-CaR-Airbus06,"The company pays 2000 EUR in cash for the repayment of short-term financing liabilities.
+Effect: Negative
+
+","
+2024-06-25 * ""Repayment of Short-Term Financing Liabilities""
+  Liabilities:Current:ShortTermFinancingLiabilities -2000 EUR
+  Assets:Current:CashAndCashEquivalents 2000 EUR",
+Llama-CaR-Airbus08,"The company pays 1000 EUR in cash for the purchase of intangible assets.
+Effect: Negative
+
+","
+2024-07-10 * ""Purchase of Intangible Assets""
+  Assets:NonCurrent:IntangibleAssets -1000 EUR
+  Liabilities:Current:ShortTermDebt -1000 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-2000 EUR)"
+Llama-CaR-Airbus10,"The company pays 1500 EUR in cash for the repayment of long-term financing liabilities.
+Effect: Negative
+
+","
+2024-07-20 * ""Repayment of Long-Term Financing Liabilities""
+  Liabilities:NonCurrent:LongTermFinancingLiabilities -1500 EUR
+  Assets:Current:CashAndCashEquivalents 1500 EUR",
+Llama-CaR-Airbus18,"The company pays 2000 EUR in cash for the repayment of long-term financing liabilities.
+Effect: Negative
+
+","
+2024-09-10 * ""Repayment of Long-Term Financing Liabilities""
+  Liabilities:NonCurrent:LongTermFinancingLiabilities -2000 EUR
+  Assets:Current:CashAndCashEquivalents 2000 EUR",
+Llama-CaR-Bayer05,"The company increases its cash reserves by 100 EUR.
+Effect: Positive
+
+","
+2024-06-01 * ""Increase in Cash Reserves""
+  Assets:Current:CashAndCashEquivalents 100 EUR",Transaction does not balance: (100 EUR)
+Llama-CaR-Bayer06,"The company decreases its cash reserves by 100 EUR.
+Effect: Negative
+
+","
+2024-06-01 * ""Decrease in Cash Reserves""
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-100 EUR)
+Llama-CaR-Bayer14,"The company increases its current other liabilities by 100 EUR.
+Effect: Negative
+
+","
+2024-06-01 * ""Increase in current other liabilities""
+  Liabilities:Current:OtherLiabilities 100 EUR",Transaction does not balance: (100 EUR)
+Llama-CaR-Deutsche_Telekom03,"The company receives 200 EUR in cash from the sale of non-current assets.
+Effect: Positive
+
+","
+2024-06-15 * ""Sale of Non-Current Assets""
+  Assets:NonCurrent:NonCurrentAssetsAndDisposalGroupsHeldForSale -200 EUR
+  Assets:Current:CashAndCashEquivalents 200 EUR",Invalid reference to unknown account 'Assets:NonCurrent:NonCurrentAssetsAndDisposalGroupsHeldForSale'
+Llama-CaR-Deutsche_Telekom06,"The company decreases its current recoverable income taxes by 50 EUR.
+Effect: Negative
+
+","
+2024-06-01 * ""Decrease in Current Recoverable Income Taxes""
+  Assets:Current:CurrentRecoverableIncomeTaxes -50 EUR",Transaction does not balance: (-50 EUR)
+Llama-CaR-Deutsche_Telekom07,"The company increases its trade receivables by 200 EUR.
+Effect: Positive
+
+","
+2024-05-29 * ""Increase in Trade Receivables""
+  Assets:Current:TradeReceivables 200 EUR",Transaction does not balance: (200 EUR)
+Llama-CaR-Deutsche_Telekom18,"The company decreases its property, plant, and equipment by 200 EUR.
+Effect: Negative
+
+","
+2024-06-15 * ""Decrease in Property, Plant, and Equipment""
+  Assets:NonCurrent:PropertyPlantAndEquipment -200 EUR",Transaction does not balance: (-200 EUR)
+Llama-CaR-Mercedes-Benz01,"The company uses 1000 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",
+Llama-CaR-Mercedes-Benz04,"The company receives 500 EUR in cash from the sale of trade receivables.
+Effect: Positive
+
+","
+2024-06-15 * ""Receipt of Cash from Sale of Trade Receivables""
+  Assets:Current:ReceivablesFromFinancialServices -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Llama-CaR-Mercedes-Benz14,"The company purchases new receivables from financial services worth 1500 EUR, increasing non-current assets.
+Effect: Positive
+
+","
+2024-06-01 * ""Purchase of Receivables from Financial Services""
+  Liabilities:NonCurrent:ReceivablesFromFinancialServices 1500 EUR
+  Assets:NonCurrent:ReceivablesFromFinancialServices 1500 EUR","Invalid reference to unknown account 'Liabilities:NonCurrent:ReceivablesFromFinancialServices'
+Transaction does not balance: (3000 EUR)"
+Llama-CaR-Mercedes-Benz16,"The company receives 1000 EUR in cash from the sale of other assets.
+Effect: Positive
+
+","
+2024-07-01 * ""Receipt of Cash from Sale of Other Assets""
+  Assets:NonCurrent:OtherAssets -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Llama-CaR-Mercedes-Benz17,"The company uses 2000 EUR in cash to repay current financing liabilities.
+Effect: Negative
+
+","
+2024-06-15 * ""Repay current financing liabilities""
+  Liabilities:Current:FinancingLiabilities -2000 EUR
+  Assets:Current:CashAndCashEquivalents 2000 EUR",
+Llama-CaR-Mercedes-Benz18,"The company purchases new equipment worth 1000 EUR, increasing non-current assets.
+Effect: Positive
+
+","
+2024-06-01 * ""Purchase of Equipment""
+  Liabilities:NonCurrent:Equipment 1000 EUR
+  Assets:NonCurrent:Equipment 1000 EUR","Invalid reference to unknown account 'Assets:NonCurrent:Equipment'
+Invalid reference to unknown account 'Liabilities:NonCurrent:Equipment'
+Transaction does not balance: (2000 EUR)"
+Llama-CaR-Mercedes-Benz19,"The company sells 500 EUR worth of other financial liabilities, increasing cash.
+Effect: Positive
+
+","
+2024-06-15 * ""Sale of Other Financial Liabilities""
+  Liabilities:NonCurrent:OtherFinancialLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Llama-CaR-SAP11,"The company increases its other financial assets by 75 EUR.
+Effect: Positive
+
+","
+2024-06-01 * ""Increase in Other Financial Assets""
+  Assets:NonCurrent:OtherFinancialAssets 75 EUR",Transaction does not balance: (75 EUR)
+Llama-CaR-SAP13,"The company increases its goodwill by 100 EUR.
+Effect: Positive
+
+","
+2024-05-29 * ""Increase in Goodwill""
+  Assets:NonCurrent:Goodwill 100 EUR",Transaction does not balance: (100 EUR)
+Llama-CaR-SAP14,"The company uses 400 EUR in cash to repay current tax liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Repay current tax liabilities""
+  Liabilities:Current:TaxLiabilities 400 EUR
+  Assets:Current:CashAndCashEquivalents -400 EUR",
+Llama-CaR-SAP18,"The company uses 200 EUR in cash to repay current other non-financial liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Repay current other non-financial liabilities""
+  Liabilities:Current:OtherNonFinancialLiabilities 200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",
+Llama-CuR-Airbus05,"The company purchases new trade receivables worth 3000 EUR, increasing the current trade receivables.
+Effect: Positive
+
+","
+2024-05-15 * ""Purchase of Trade Receivables""
+  Assets:Current:TradeReceivables 3000 EUR
+  Liabilities:Current:ShortTermDebt -3000 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Llama-CuR-Airbus10,"The company purchases new other assets worth 2000 EUR, increasing the current other assets.
+Effect: Positive
+
+","
+2024-05-20 * ""Purchase of Other Assets""
+  Assets:Current:OtherAssets 2000 EUR
+  Liabilities:Current:ShortTermDebt -2000 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Llama-CuR-Airbus12,"The company purchases new securities worth 500 EUR, increasing the current securities.
+Effect: Positive
+
+","
+2024-05-29 * ""Purchase of Securities""
+  Assets:Current:Securities 500 EUR
+  Liabilities:Current:ShortTermDebt -500 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Llama-CuR-Airbus14,"The company receives 3000 EUR in cash from the sale of trade receivables.
+Effect: Positive
+
+","
+2024-05-15 * ""Sale of Trade Receivables""
+  Assets:Current:TradeReceivables -3000 EUR
+  Assets:Current:CashAndCashEquivalents 3000 EUR",
+Llama-CuR-Airbus20,"The company uses 1000 EUR in cash to repay current short-term debt.
+Effect: Positive","
+2024-07-11 * ""Repay current short-term debt""
+  Liabilities:Current:ShortTermDebt -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Llama-CuR-Deutsche_Telekom05,"The company receives 300 EUR in cash from the sale of non-current assets.
+Effect: Positive
+
+","
+2024-07-01 * ""Sale of Non-Current Assets""
+  Assets:NonCurrent:OtherAssets -300 EUR
+  Assets:Current:CashAndCashEquivalents 300 EUR",
+Llama-CuR-Deutsche_Telekom09,"The company receives 500 EUR in cash from the sale of trade and other payables.
+Effect: Positive
+
+","
+2024-08-01 * ""Sale of Trade and Other Payables""
+  Liabilities:Current:TradeAndOtherPayables -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Llama-CuR-Deutsche_Telekom13,"The company receives 700 EUR in cash from the sale of non-current financial liabilities.
+Effect: Positive
+
+","
+2024-08-15 * ""Sale of Non-Current Financial Liabilities""
+  Liabilities:NonCurrent:FinancialLiabilities -700 EUR
+  Assets:Current:CashAndCashEquivalents 700 EUR",
+Llama-CuR-Deutsche_Telekom18,"The company pays 700 EUR in cash for the purchase of lease liabilities.
+Effect: Negative
+
+","
+2024-06-30 * ""Purchase of Lease Liabilities""
+  Liabilities:NonCurrent:LeaseLiabilities -700 EUR
+  Liabilities:Current:ShortTermDebt 700 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Llama-CuR-Mercedes-Benz05,"The company pays 3000 EUR in trade payables, decreasing current liabilities.
+Effect: Positive
+
+","
+2024-06-25 * ""Payment of Trade Payables""
+  Liabilities:Current:TradePayables -3000 EUR
+  Assets:Current:CashAndCashEquivalents 3000 EUR",
+Llama-CuR-Mercedes-Benz06,"The company purchases new equipment on operating leases worth 4000 EUR, increasing non-current assets.
+Effect: Positive
+
+","
+2024-07-01 * ""Purchase of Equipment on Operating Leases""
+  Liabilities:NonCurrent:EquipmentOnOperatingLeases 4000 EUR
+  Assets:NonCurrent:EquipmentOnOperatingLeases 4000 EUR","Invalid reference to unknown account 'Liabilities:NonCurrent:EquipmentOnOperatingLeases'
+Transaction does not balance: (8000 EUR)"
+Llama-CuR-Mercedes-Benz16,"The company receives 1500 EUR in other reserves, increasing equity.
+Effect: Positive
+
+","
+2024-08-20 * ""Receipt of Other Reserves""
+  Equity:OtherReserves 1500 EUR",Transaction does not balance: (1500 EUR)
+Llama-CuR-SAP01,"The company uses 100 EUR in cash to repay current financial liabilities.
+Effect: Positive
+
+","
+2024-07-11 * ""Repay current financial liabilities""
+  Liabilities:Current:FinancialLiabilities 100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",
+Llama-CuR-SAP03,"The company receives 100 EUR in cash from the sale of trade and other receivables.
+Effect: Positive
+
+","
+2024-07-11 * ""Sale of Trade and Other Receivables""
+  Assets:Current:TradeAndOtherReceivables 100 EUR
+  Assets:Current:CashAndCashEquivalents 100 EUR",Transaction does not balance: (200 EUR)
+Llama-CuR-SAP13,"The company uses 100 EUR in cash to repay current deferred tax liabilities.
+Effect: Positive
+
+","
+2024-07-11 * ""Repay current deferred tax liabilities""
+  Liabilities:Current:DeferredTaxLiabilities 100 EUR
+  Assets:Current:CashAndCashEquivalents 100 EUR","Invalid reference to unknown account 'Liabilities:Current:DeferredTaxLiabilities'
+Transaction does not balance: (200 EUR)"
+Llama-CuR-SAP17,"The company uses 100 EUR in cash to repay current financial liabilities.
+Effect: Positive
+
+","
+2024-07-11 * ""Repay current financial liabilities""
+  Liabilities:Current:FinancialLiabilities 100 EUR
+  Assets:Current:CashAndCashEquivalents 100 EUR",Transaction does not balance: (200 EUR)
+Llama-QR-Airbus04,"The company increases the trade receivables by 1000 EUR.
+Effect: Positive
+
+","
+2024-06-20 * ""Increase in Trade Receivables""
+  Assets:Current:TradeReceivables 1000 EUR",Transaction does not balance: (1000 EUR)
+Llama-QR-Airbus12,"The company increases the accumulated other comprehensive income by 100 EUR.
+Effect: Positive
+
+","
+2024-08-01 * ""Increase in Accumulated Other Comprehensive Income""
+  Equity:AccumulatedOtherComprehensiveIncome 100 EUR",Transaction does not balance: (100 EUR)
+Llama-QR-Airbus16,"The company increases the share premium by 100 EUR.
+Effect: Positive
+
+","
+2024-08-20 * ""Increase in Share Premium""
+  Equity:SharePremium 100 EUR",Transaction does not balance: (100 EUR)
+Llama-QR-Airbus19,"The company increases the other financial liabilities by 1000 EUR.
+Effect: Negative
+
+","
+2024-09-10 * ""Increase in Other Financial Liabilities""
+  Liabilities:NonCurrent:OtherFinancialLiabilities 1000 EUR",Transaction does not balance: (1000 EUR)
+Llama-QR-Bayer02,"The company purchases new inventory worth 100 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-05-29 * ""Purchase of Inventory on Credit""
+  Liabilities:Current:ShortTermDebt 100 EUR
+  Assets:Current:Inventories 100 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (200 EUR)"
+Llama-QR-Bayer07,"The company receives 100 EUR in other financial assets.
+Effect: Positive
+
+","
+2024-07-01 * ""Receipt of Other Financial Assets""
+  Liabilities:Current:OtherFinancialLiabilities -100 EUR
+  Assets:Current:OtherFinancialAssets 100 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherFinancialLiabilities'
+Llama-QR-Bayer10,"The company pays 100 EUR in trade accounts payable.
+Effect: Negative
+
+","
+2024-07-15 * ""Payment of Trade Accounts Payable""
+  Liabilities:Current:TradeAccountsPayable -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Llama-QR-Bayer12,"The company pays 100 EUR in other liabilities.
+Effect: Negative
+
+","
+2024-06-15 * ""Payment of Other Liabilities""
+  Liabilities:Current:OtherLiabilities -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Llama-QR-Bayer14,"The company pays 100 EUR in equity attributable to non-controlling interest.
+Effect: Negative
+
+","
+2024-05-15 * ""Payment of Equity Attributable to Non-Controlling Interest""
+  Liabilities:Equity:EquityAttributableToNoncontrollingInterest -100 EUR
+  Assets:Equity:EquityAttributableToNoncontrollingInterest -100 EUR","Invalid reference to unknown account 'Assets:Equity:EquityAttributableToNoncontrollingInterest'
+Invalid reference to unknown account 'Liabilities:Equity:EquityAttributableToNoncontrollingInterest'
+Transaction does not balance: (-200 EUR)"
+Llama-QR-Bayer15,"The company receives 100 EUR in other reserves.
+Effect: Positive
+
+","
+2024-06-15 * ""Receipt of Other Reserves""
+  Liabilities:Equity:OtherReserves 100 EUR
+  Assets:Equity:OtherReserves 100 EUR","Invalid reference to unknown account 'Assets:Equity:OtherReserves'
+Invalid reference to unknown account 'Liabilities:Equity:OtherReserves'
+Transaction does not balance: (200 EUR)"
+Llama-QR-Bayer18,"The company pays 100 EUR in income tax liabilities.
+Effect: Negative
+
+","
+2024-06-15 * ""Payment of Income Tax Liabilities""
+  Liabilities:NonCurrent:IncomeTaxLiabilities -100 EUR
+  Assets:NonCurrent:IncomeTaxLiabilities -100 EUR","Invalid reference to unknown account 'Assets:NonCurrent:IncomeTaxLiabilities'
+Transaction does not balance: (-200 EUR)"
+Llama-QR-Bayer19,"The company receives 100 EUR in other provisions.
+Effect: Positive
+
+","
+2024-07-15 * ""Receipt of Other Provisions""
+  Liabilities:NonCurrent:OtherProvisions 100 EUR
+  Assets:NonCurrent:OtherProvisions 100 EUR","Invalid reference to unknown account 'Assets:NonCurrent:OtherProvisions'
+Transaction does not balance: (200 EUR)"
+Llama-QR-Bayer20,"The company pays 100 EUR in refund liabilities.
+Effect: Negative","
+2024-05-15 * ""Payment of Refund Liabilities""
+  Liabilities:NonCurrent:RefundLiabilities -100 EUR
+  Assets:NonCurrent:RefundLiabilities -100 EUR","Invalid reference to unknown account 'Assets:NonCurrent:RefundLiabilities'
+Transaction does not balance: (-200 EUR)"
+Llama-QR-Deutsche_Telekom10,"The company increases its trade payables by 1500 EUR.
+Effect: Positive
+
+","
+2024-05-29 * ""Increase in Trade Payables""
+  Liabilities:Current:TradeAndOtherPayables 1500 EUR",Transaction does not balance: (1500 EUR)
+Llama-QR-Deutsche_Telekom11,"The company receives 1000 EUR in cash from the sale of current assets.
+Effect: Positive
+
+","
+2024-06-15 * ""Sale of Current Assets""
+  Liabilities:Current:CashAndCashEquivalents 1000 EUR
+  Assets:Current:CurrentAssets -1000 EUR","Invalid reference to unknown account 'Assets:Current:CurrentAssets'
+Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'"
+Llama-QR-Mercedes-Benz07,"The company purchases new equipment on operating leases worth 1000 EUR, increasing non-current assets.
+Effect: Positive
+
+","
+2024-08-01 * ""Purchase of Equipment on Operating Leases""
+  Liabilities:NonCurrent:EquipmentOnOperatingLeases 1000 EUR
+  Assets:NonCurrent:EquipmentOnOperatingLeases 1000 EUR","Invalid reference to unknown account 'Liabilities:NonCurrent:EquipmentOnOperatingLeases'
+Transaction does not balance: (2000 EUR)"
+Llama-QR-Mercedes-Benz19,"The company increases its non-current other financial assets by 1000 EUR, increasing non-current assets.
+Effect: Positive
+
+","
+2024-09-01 * ""Increase in Non-Current Other Financial Assets""
+  Assets:NonCurrent:OtherFinancialAssets 1000 EUR",Transaction does not balance: (1000 EUR)
+Llama-QR-SAP02,"The company purchases new inventory worth 100 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-05-29 * ""Purchase of Inventory on Credit""
+  Liabilities:Current:ShortTermDebt 100 EUR
+  Assets:Current:Inventories 100 EUR","Invalid reference to unknown account 'Assets:Current:Inventories'
+Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (200 EUR)"
+Llama-QR-SAP07,"The company increases its tax assets by 100 EUR.
+Effect: Positive
+
+","
+2024-06-01 * ""Increase in Tax Assets""
+  Assets:Current:TaxAssets 100 EUR",Transaction does not balance: (100 EUR)
+Llama-QR-SAP10,"The company increases its financial liabilities by 100 EUR.
+Effect: Negative
+
+","
+2024-06-01 * ""Increase in Financial Liabilities""
+  Liabilities:Current:FinancialLiabilities 100 EUR",Transaction does not balance: (100 EUR)
+Llama-QR-SAP16,"The company increases its intangible assets by 100 EUR.
+Effect: Positive
+
+","
+2024-06-01 * ""Increase in Intangible Assets""
+  Assets:NonCurrent:IntangibleAssets 100 EUR",Transaction does not balance: (100 EUR)
+Llama-QR-SAP18,"The company increases its other non-financial assets by 100 EUR.
+Effect: Positive
+
+","
+2024-06-01 * ""Increase in Other Non-Financial Assets""
+  Assets:NonCurrent:OtherNonFinancialAssets 100 EUR",Transaction does not balance: (100 EUR)
+Mistral-CaR-Airbus06,"The company pays 500 EUR in trade payables.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Payment of Trade Payables""
+  Assets:Current:TradePayables 500 EUR
+  Liabilities:Current:TradeLiabilities -500 EUR",Invalid reference to unknown account 'Assets:Current:TradePayables'
+Mistral-CaR-Airbus08,"The company sells 1000 EUR in contract assets.
+   Effect: Positive
+
+   ","
+2024-07-11 * ""Sale of Contract Assets""
+  Assets:Current:ContractAssets 1000 EUR
+  Liabilities:Current:ContractLiabilities -1000 EUR",
+Mistral-CaR-Airbus10,"The company sells 1000 EUR in other assets.
+   Effect: Positive
+
+   ","
+2024-07-11 * ""Sale of Other Assets""
+  Assets:Current:OtherAssets 1000 EUR
+  Liabilities:Current:OtherLiabilities -1000 EUR",
+Mistral-CaR-Airbus18,"The company pays 500 EUR in other liabilities.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Payment of Other Liabilities""
+  Liabilities:Current:OtherLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",Transaction does not balance: (-1000 EUR)
+Mistral-CaR-Bayer05,"The company receives 2000 EUR from other receivables.
+   Effect: Positive
+
+   ","
+2024-07-11 * ""Receipt from Other Receivables""
+  Liabilities:Current:OtherReceivables -2000 EUR
+  Assets:Current:CashAndCashEquivalents 2000 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherReceivables'
+Mistral-CaR-Bayer06,"The company pays 500 EUR to other financial liabilities.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Payment to Other Financial Liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR","Invalid reference to unknown account 'Liabilities:Current:OtherFinancialLiabilities'
+Transaction does not balance: (-1000 EUR)"
+Mistral-CaR-Bayer14,"The company pays 1500 EUR to provisions for pensions and other post-employment benefits.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Payment to Provisions for Pensions and Other Post-Employment Benefits""
+  Liabilities:NonCurrent:ProvisionsForPensionsAndOtherPostEmploymentBenefits -1500 EUR
+  Assets:Current:CashAndCashEquivalents -1500 EUR",Transaction does not balance: (-3000 EUR)
+Mistral-CaR-Deutsche_Telekom03,"The company pays 1000 EUR in current income tax liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Pay current income tax liabilities""
+  Liabilities:Current:IncomeTaxLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Mistral-CaR-Deutsche_Telekom06,"The company repays 1000 EUR of short-term debt.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Repay Short-term Debt""
+  Liabilities:Current:ShortTermDebt -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Mistral-CaR-Deutsche_Telekom07,"The company purchases 1000 EUR of inventories for cash.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Purchase of Inventory for Cash""
+  Assets:Current:Inventories -500 EUR
+  Liabilities:Current:CashAndCashEquivalents 500 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Mistral-CaR-Deutsche_Telekom18,"The company pays 1000 EUR in non-current financial liabilities.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Pay Non-current Financial Liabilities""
+  Liabilities:NonCurrent:FinancialLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Mistral-CaR-Mercedes-Benz01,"The company uses 1000 EUR in cash to repay current other financial liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",
+Mistral-CaR-Mercedes-Benz04,"The company receives 500 EUR in cash from trade receivables.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Receive cash from trade receivables""
+  Liabilities:Current:TradeReceivables -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",Invalid reference to unknown account 'Liabilities:Current:TradeReceivables'
+Mistral-CaR-Mercedes-Benz14,"The company purchases 500 EUR of intangible assets, increasing intangible assets and financing liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Purchase intangible assets""
+  Assets:NonCurrent:Intangible 1000 EUR
+  Liabilities:NonCurrent:FinancingLiabilities -1000 EUR",
+Mistral-CaR-Mercedes-Benz16,"The company purchases 500 EUR of other financial assets, increasing other financial assets and financing liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Purchase other financial assets""
+  Assets:NonCurrent:OtherFinancialAssets 1000 EUR
+  Liabilities:NonCurrent:FinancingLiabilities -1000 EUR",
+Mistral-CaR-Mercedes-Benz17,"The company purchases 1000 EUR of property, plant, and equipment, increasing property, plant, and equipment and financing liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Purchase property, plant, and equipment""
+  Assets:NonCurrent:PropertyPlantAndEquipment 1000 EUR
+  Liabilities:NonCurrent:FinancingLiabilities -1000 EUR",
+Mistral-CaR-Mercedes-Benz18,"The company receives 500 EUR in cash from receivables from financial services on non-current.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Receive cash from receivables from financial services (non-current)""
+  Liabilities:NonCurrent:ReceivablesFromFinancialServices -500 EUR
+  Assets:NonCurrent:CashAndCashEquivalents 500 EUR","Invalid reference to unknown account 'Assets:NonCurrent:CashAndCashEquivalents'
+Invalid reference to unknown account 'Liabilities:NonCurrent:ReceivablesFromFinancialServices'"
+Mistral-CaR-Mercedes-Benz19,"The company pays 1000 EUR in non-current contract and refund liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Pay non-current contract and refund liabilities""
+  Liabilities:NonCurrent:ContractAndRefundLiabilities 1000 EUR
+  Liabilities:NonCurrent:ContractAndRefundLiabilities -1000 EUR",
+Mistral-CaR-SAP11,"The company pays 350 EUR in other non-financial liabilities.
+   Effect: Negative
+
+   ","
+2024-05-15 * ""Payment of Other Non-Financial Liabilities""
+  Liabilities:Current:OtherNonFinancialLiabilities -350 EUR
+  Assets:Current:CashAndCashEquivalents -350 EUR",Transaction does not balance: (-700 EUR)
+Mistral-CaR-SAP13,"The company pays 250 EUR in provisions.
+   Effect: Negative
+
+   ","
+2024-05-15 * ""Payment of Provisions""
+  Liabilities:Current:Provisions -250 EUR
+  Assets:Current:CashAndCashEquivalents -250 EUR",Transaction does not balance: (-500 EUR)
+Mistral-CaR-SAP14,"The company receives 500 EUR in cash from the sale of other financial liabilities.
+   Effect: Positive
+
+   ","
+2024-05-15 * ""Sale of Other Financial Liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -500 EUR
+  Equity:TreasuryShares 500 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherFinancialLiabilities'
+Mistral-CaR-SAP18,"The company receives 75 EUR in cash from the sale of intangible assets.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Sale of Intangible Assets""
+  Assets:NonCurrent:IntangibleAssets -75 EUR
+  Equity:TreasuryShares 75 EUR",
+Mistral-CuR-Airbus05,"The company pays 1000 EUR of trade liabilities.
+   Effect: Positive
+
+   ","
+2024-07-11 * ""Pay Trade Liabilities""
+  Liabilities:Current:TradeLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Mistral-CuR-Airbus10,"The company purchases 500 EUR of new inventories on credit, increasing the short-term debt and trade liabilities.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Purchase of Inventory on Credit (5)""
+  Liabilities:Current:ShortTermDebt -500 EUR
+  Assets:Current:Inventories 500 EUR
+  Liabilities:Current:TradeLiabilities -500 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-500 EUR)"
+Mistral-CuR-Airbus12,"The company purchases 500 EUR of new inventories on credit, increasing the short-term debt and trade liabilities.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Purchase of Inventory on Credit (6)""
+  Liabilities:Current:ShortTermDebt -500 EUR
+  Assets:Current:Inventories 500 EUR
+  Liabilities:Current:TradeLiabilities -500 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-500 EUR)"
+Mistral-CuR-Airbus14,"The company purchases 500 EUR of new inventories on credit, increasing the short-term debt and trade liabilities.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Purchase of Inventory on Credit (7)""
+  Liabilities:Current:ShortTermDebt -500 EUR
+  Assets:Current:Inventories 500 EUR
+  Liabilities:Current:TradeLiabilities -500 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-500 EUR)"
+Mistral-CuR-Airbus20,"The company purchases 500 EUR of new inventories on credit, increasing the short-term debt and trade liabilities.
+   Effect: Negative","
+2024-07-11 * ""Purchase of Inventory on Credit (10)""
+  Liabilities:Current:ShortTermDebt -500 EUR
+  Assets:Current:Inventories 500 EUR
+  Liabilities:Current:TradeLiabilities -500 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-500 EUR)"
+Mistral-CuR-Deutsche_Telekom05,"The company pays 1000 EUR of current liabilities earlier than due.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Pay current liabilities early""
+  Liabilities:Current:TradePayables -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR","Invalid reference to unknown account 'Liabilities:Current:TradePayables'
+Transaction does not balance: (-2000 EUR)"
+Mistral-CuR-Deutsche_Telekom09,"The company receives a 1000 EUR advance payment from a customer for future services.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Receive advance payment from customer""
+  Liabilities:Current:TradeReceivables -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:TradeReceivables'
+Mistral-CuR-Deutsche_Telekom13,"The company writes off 1000 EUR of current receivables as uncollectible.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Write off current receivables as uncollectible""
+  Liabilities:Current:TradeReceivables -1000 EUR
+  Assets:Current:OtherAssets 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:TradeReceivables'
+Mistral-CuR-Deutsche_Telekom18,"The company writes off 1000 EUR of current liabilities as uncollectible.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Write off current liabilities as uncollectible""
+  Liabilities:Current:TradePayables -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:TradePayables'
+Mistral-CuR-Mercedes-Benz05,"The company decreases its trade payables by 400 EUR.
+   Effect: Positive
+
+   ","
+2024-05-15 * ""Decrease in Trade Payables""
+  Liabilities:Current:TradePayables -400 EUR",Transaction does not balance: (-400 EUR)
+Mistral-CuR-Mercedes-Benz06,"The company increases its other financial assets by 1500 EUR.
+   Effect: Positive
+
+   ","
+2024-05-25 * ""Increase in Other Financial Assets""
+  Assets:Current:OtherFinancialAssets 1500 EUR",Transaction does not balance: (1500 EUR)
+Mistral-CuR-Mercedes-Benz16,"The company increases its financing liabilities by 1000 EUR.
+   Effect: Negative
+
+   ","
+2024-05-25 * ""Increase in Financing Liabilities""
+  Liabilities:Current:FinancingLiabilities 1000 EUR",Transaction does not balance: (1000 EUR)
+Mistral-CuR-SAP01,"The company uses 1000 EUR in cash to repay current other financial liabilities.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherFinancialLiabilities'
+Mistral-CuR-SAP03,"The company sells 1000 EUR of other non-financial assets.
+   Effect: Positive
+
+   ","
+2024-04-01 * ""Sale of Other Non-Financial Assets""
+  Assets:Current:OtherNonFinancialAssets -1000 EUR
+  Liabilities:Current:OtherNonFinancialLiabilities 1000 EUR",
+Mistral-CuR-SAP13,"The company pays 1000 EUR in other non-financial liabilities.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Payment of Other Non-Financial Liabilities""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:OtherNonFinancialLiabilities 1000 EUR",
+Mistral-CuR-SAP17,"The company pays 1000 EUR in other non-financial assets.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Payment of Other Non-Financial Assets""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Assets:Current:OtherNonFinancialAssets -1000 EUR",Transaction does not balance: (-2000 EUR)
+Mistral-QR-Airbus04,"The company reduces trade receivables by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Reduce Trade Receivables""
+  Liabilities:Current:TradeLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Mistral-QR-Airbus12,"The company reduces non-current intangible assets by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Reduce Non-current Intangible Assets""
+  Assets:NonCurrent:IntangibleAssets -500 EUR
+  Liabilities:NonCurrent:InvestmentProperty 500 EUR",Invalid reference to unknown account 'Liabilities:NonCurrent:InvestmentProperty'
+Mistral-QR-Airbus16,"The company reduces share premium by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Reduce Share Premium""
+  Equity:SharePremium -500 EUR
+  Liabilities:NonCurrent:OtherLiabilities 500 EUR",
+Mistral-QR-Airbus19,"The company reduces long-term financing liabilities by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-04-01 * ""Reduce Long-term Financing Liabilities""
+  Liabilities:NonCurrent:LongTermFinancingLiabilities -500 EUR
+  Assets:NonCurrent:OtherInvestmentsAndOtherLongTermFinancialAssets 500 EUR",
+Mistral-QR-Bayer02,"The company purchases new inventory worth 200 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-05-29 * ""Purchase of Inventory on Credit""
+  Liabilities:Current:ShortTermDebt -200 EUR
+  Assets:Current:Inventories 200 EUR",Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Mistral-QR-Bayer07,"The company pays 1000 EUR of other provisions.
+Effect: Negative
+
+","
+2024-07-11 * ""Pay other provisions""
+  Liabilities:Current:OtherProvisions -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Mistral-QR-Bayer10,"The company purchases 1000 EUR of other financial assets.
+Effect: Positive
+
+","
+2024-07-11 * ""Purchase other financial assets""
+  Assets:Current:OtherFinancialAssets 1000 EUR
+  Liabilities:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Mistral-QR-Bayer12,"The company receives 1000 EUR of trade accounts receivable.
+Effect: Positive
+
+","
+2024-07-11 * ""Receive trade accounts receivable""
+  Liabilities:Current:TradeAccountsReceivable 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:TradeAccountsReceivable'
+Mistral-QR-Bayer14,"The company pays 1000 EUR of income tax liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Pay income tax liabilities""
+  Liabilities:Current:IncomeTaxLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Mistral-QR-Bayer15,"The company pays 1000 EUR of other financial liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Pay other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherFinancialLiabilities'
+Mistral-QR-Bayer18,"The company pays 1000 EUR of other liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Pay other liabilities""
+  Liabilities:Current:OtherLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Mistral-QR-Bayer19,"The company pays 1000 EUR of refund liabilities.
+Effect: Negative
+
+","
+2024-07-11 * ""Pay refund liabilities""
+  Liabilities:Current:RefundLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents 1000 EUR",
+Mistral-QR-Bayer20,"The company receives 1000 EUR of other receivables.
+Effect: Positive","
+2024-07-11 * ""Receive other receivables""
+  Liabilities:Current:OtherReceivables 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:OtherReceivables'
+Mistral-QR-Deutsche_Telekom10,"The company pays 500 EUR of current liabilities later than due.
+Effect: Positive
+
+","
+2024-07-11 * ""Pay current liabilities later than due""
+  Liabilities:Current:TradeAndOtherPayables 500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",
+Mistral-QR-Deutsche_Telekom11,"The company receives a 500 EUR cash dividend from an investment.
+Effect: Positive
+
+","
+2024-07-11 * ""Receive cash dividend from an investment""
+  Liabilities:Current:OtherLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Mistral-QR-Mercedes-Benz07,"The company increases other financial liabilities by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Increase Other Financial Liabilities""
+  Liabilities:Current:OtherFinancialLiabilities 500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",
+Mistral-QR-Mercedes-Benz19,"The company increases non-current provisions for pensions by 500 EUR.
+   Effect: Negative
+
+   ","
+2024-07-11 * ""Increase Non-current Provisions for Pensions""
+  Liabilities:NonCurrent:ProvisionsForPensions 500 EUR
+  Assets:NonCurrent:CashAndCashEquivalents -500 EUR",Invalid reference to unknown account 'Assets:NonCurrent:CashAndCashEquivalents'
+Mistral-QR-SAP02,"The company purchases new inventory worth 200 EUR on credit, increasing the short-term debt.
+   Effect: Negative
+
+   ","
+2024-05-29 * ""Purchase of Inventory on Credit""
+  Liabilities:Current:ShortTermDebt -200 EUR
+  Assets:Current:Inventories 200 EUR","Invalid reference to unknown account 'Assets:Current:Inventories'
+Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'"
+Mistral-QR-SAP07,"The company purchases 1000 EUR of other financial assets.
+   Effect: Positive
+
+   ","
+2024-05-18 * ""Purchase of Other Financial Assets""
+  Assets:Current:OtherFinancialAssets 1000 EUR
+  Liabilities:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Mistral-QR-SAP10,"The company pays 500 EUR of provisions.
+   Effect: Negative
+
+   ","
+2024-05-18 * ""Payment of Provisions""
+  Liabilities:Current:Provisions -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Mistral-QR-SAP16,"The company pays 500 EUR of deferred tax assets.
+   Effect: Negative
+
+   ","
+2024-05-22 * ""Payment of Deferred Tax Assets""
+  Liabilities:NonCurrent:DeferredTaxLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents 500 EUR",
+Mistral-QR-SAP18,"The company pays 1000 EUR of goodwill.
+   Effect: Negative
+
+   ","
+2024-05-22 * ""Payment of Goodwill""
+  Assets:NonCurrent:Goodwill -1000 EUR
+  Liabilities:Current:CashAndCashEquivalents 1000 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Qwen-CaR-Airbus06,"Airbus pays 1000 EUR in tax liabilities, reducing cash and cash equivalents.
+Effect: Negative
+
+","
+2024-01-01 * ""Pay tax liabilities""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:TaxLiabilities -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-CaR-Airbus08,"Airbus incurs 1000 EUR in new deferred income, increasing current liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new deferred income""
+  Liabilities:Current:DeferredIncome -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-CaR-Airbus10,"Airbus receives 1000 EUR from a customer for contract liabilities.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment for contract liabilities""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:ContractLiabilities -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-CaR-Airbus18,"Airbus pays 2500 EUR in other financial liabilities, reducing cash and cash equivalents.
+Effect: Negative
+
+","
+2024-01-01 * ""Receive payment for other liabilities""
+  Assets:Current:CashAndCashEquivalents -2000 EUR
+  Liabilities:Current:OtherLiabilities -2000 EUR",Transaction does not balance: (-4000 EUR)
+Qwen-CaR-Bayer05,"The company uses 200 EUR in cash to pay for current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Use of cash to pay for current other financial liabilities""
+  Liabilities:Current:FinancialLiabilities -200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",Transaction does not balance: (-400 EUR)
+Qwen-CaR-Bayer06,"The company receives 200 EUR in cash from a customer for other receivables.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive cash from customer for other receivables""
+  Assets:Current:OtherReceivables -200 EUR
+  Assets:Current:CashAndCashEquivalents 200 EUR",
+Qwen-CaR-Bayer14,"The company receives 50 EUR in cash from a customer for claims for income tax refunds.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive cash from customer for claim for income tax refunds""
+  Assets:Current:ClaimsForIncomeTaxRefunds -50 EUR
+  Assets:Current:CashAndCashEquivalents 50 EUR",
+Qwen-CaR-Deutsche_Telekom03,"The company purchases new inventory worth 200 EUR on credit.
+Effect: Negative
+
+","
+2024-01-01 * ""Purchase of new inventory on credit""
+  Liabilities:Current:FinancialLiabilities -200 EUR
+  Assets:Current:Inventories 200 EUR",
+Qwen-CaR-Deutsche_Telekom06,"The company sells 500 EUR worth of other financial assets for cash.
+Effect: Positive
+
+","
+2024-01-01 * ""Sell other financial assets for cash""
+  Assets:Current:CashAndCashEquivalents 500 EUR
+  Assets:Current:OtherFinancialAssets -500 EUR",
+Qwen-CaR-Deutsche_Telekom07,"The company incurs 500 EUR in new current liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new current liabilities""
+  Liabilities:Current:ContractLiabilities 500 EUR
+  Liabilities:Current:FinancialLiabilities 500 EUR
+  Liabilities:Current:IncomeTaxLiabilities 500 EUR
+  Liabilities:Current:LeaseLiabilities 500 EUR
+  Liabilities:Current:OtherLiabilities 500 EUR
+  Liabilities:Current:OtherProvisions 500 EUR
+  Liabilities:Current:TradeAndOtherPayables 500 EUR",Transaction does not balance: (3500 EUR)
+Qwen-CaR-Deutsche_Telekom18,"The company pays 500 EUR in pension and employee benefit liabilities.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay pension and employee benefit liabilities""
+  Assets:Current:CashAndCashEquivalents 500 EUR
+  Liabilities:Current:OtherProvisions -500 EUR
+  Liabilities:NonCurrent:ProvisionsForPensionsAndOtherEmployeeBenefits -500 EUR",Transaction does not balance: (-500 EUR)
+Qwen-CaR-Mercedes-Benz01,"The company uses 100 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Qwen-CaR-Mercedes-Benz04,"The company uses 1500 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -1500 EUR
+  Assets:Current:CashAndCashEquivalents -1500 EUR",Transaction does not balance: (-3000 EUR)
+Qwen-CaR-Mercedes-Benz14,"The company uses 6500 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -6500 EUR
+  Assets:Current:CashAndCashEquivalents -6500 EUR",Transaction does not balance: (-13000 EUR)
+Qwen-CaR-Mercedes-Benz16,"The company uses 7500 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -7500 EUR
+  Assets:Current:CashAndCashEquivalents -7500 EUR",Transaction does not balance: (-15000 EUR)
+Qwen-CaR-Mercedes-Benz17,"The company uses 8000 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -8000 EUR
+  Assets:Current:CashAndCashEquivalents -8000 EUR",Transaction does not balance: (-16000 EUR)
+Qwen-CaR-Mercedes-Benz18,"The company uses 8500 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -8500 EUR
+  Assets:Current:CashAndCashEquivalents -8500 EUR",Transaction does not balance: (-17000 EUR)
+Qwen-CaR-Mercedes-Benz19,"The company uses 9000 EUR in cash to repay current other financial liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current other financial liabilities""
+  Liabilities:Current:OtherFinancialLiabilities -9000 EUR
+  Assets:Current:CashAndCashEquivalents -9000 EUR",Transaction does not balance: (-18000 EUR)
+Qwen-CaR-SAP11,"The company uses 500 EUR in cash to pay for non-current deferred tax assets.
+Effect: Negative
+
+","
+2024-01-11 * ""Use 500 EUR in cash to pay for non-current deferred tax assets""
+  Assets:Current:CashAndCashEquivalents -500 EUR
+  Assets:NonCurrent:DeferredTaxAssets -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-CaR-SAP13,"The company uses 500 EUR in cash to pay for goodwill.
+Effect: Negative
+
+","
+2024-01-13 * ""Use 500 EUR in cash to pay for goodwill""
+  Assets:Current:CashAndCashEquivalents -500 EUR
+  Assets:NonCurrent:Goodwill -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-CaR-SAP14,"The company receives 500 EUR from customers, increasing goodwill.
+Effect: Positive
+
+","
+2024-01-14 * ""Receive 500 EUR from customers""
+  Assets:Current:CashAndCashEquivalents 500 EUR
+  Assets:NonCurrent:Goodwill -500 EUR",
+Qwen-CaR-SAP18,"The company receives 500 EUR from customers, increasing other non-financial assets.
+Effect: Positive
+
+","
+2024-01-18 * ""Receive 500 EUR from customers""
+  Assets:Current:CashAndCashEquivalents 500 EUR
+  Assets:NonCurrent:OtherNonFinancialAssets -500 EUR",
+Qwen-CuR-Airbus05,"Airbus sells 500 EUR worth of inventory, reducing the current assets.
+Effect: Negative
+
+","
+2024-01-01 * ""Sell inventory""
+  Assets:Current:Inventories 1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",
+Qwen-CuR-Airbus10,"Airbus collects 1500 EUR from trade receivables, improving the current assets.
+Effect: Positive
+
+","
+2024-01-01 * ""Collect from trade receivables""
+  Assets:Current:CashAndCashEquivalents 1500 EUR
+  Assets:Current:TradeReceivables -1500 EUR",
+Qwen-CuR-Airbus12,"Airbus pays 1000 EUR to settle a deferred income, reducing the current liabilities.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay deferred income""
+  Liabilities:Current:DeferredIncome 1000 EUR
+  Liabilities:Current:CashAndCashEquivalents -1000 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Qwen-CuR-Airbus14,"Airbus sells 1000 EUR worth of securities, reducing the current assets.
+Effect: Negative
+
+","
+2024-01-01 * ""Sell securities""
+  Assets:Current:CashAndCashEquivalents 1000 EUR
+  Assets:Current:Securities -1000 EUR",
+Qwen-CuR-Airbus20,"Airbus pays 2000 EUR to settle a deferred income, reducing the current liabilities.
+Effect: Positive","
+2024-01-01 * ""Pay deferred income""
+  Liabilities:Current:DeferredIncome 2000 EUR
+  Liabilities:Current:CashAndCashEquivalents -2000 EUR",Invalid reference to unknown account 'Liabilities:Current:CashAndCashEquivalents'
+Qwen-CuR-Deutsche_Telekom05,"The company pays 500 EUR in income tax, reducing cash and cash equivalents.
+Effect: Negative
+
+","
+2024-01-01 * ""Pay income tax""
+  Liabilities:Current:IncomeTaxLiabilities -777 EUR
+  Assets:Current:CashAndCashEquivalents -777 EUR",Transaction does not balance: (-1554 EUR)
+Qwen-CuR-Deutsche_Telekom09,"The company pays 200 EUR in lease liabilities, reducing current liabilities.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay lease liabilities""
+  Liabilities:Current:LeaseLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-CuR-Deutsche_Telekom13,"The company receives 200 EUR from customers, increasing trade receivables.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:TradeReceivables -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-CuR-Deutsche_Telekom18,"The company incurs 500 EUR in new financial liabilities, increasing current liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new financial liabilities""
+  Liabilities:Current:FinancialLiabilities -200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",Transaction does not balance: (-400 EUR)
+Qwen-CuR-Mercedes-Benz05,"The company pays 50 EUR in current income tax, reducing cash and cash equivalents.
+Effect: Negative
+
+","
+2024-01-01 * ""Pay current income tax""
+  Assets:Current:CashAndCashEquivalents -50 EUR
+  Liabilities:Current:IncomeTaxLiabilities -50 EUR","Invalid reference to unknown account 'Liabilities:Current:IncomeTaxLiabilities'
+Transaction does not balance: (-100 EUR)"
+Qwen-CuR-Mercedes-Benz06,"The company receives 100 EUR from customers, increasing trade receivables.
+Effect: Negative
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:TradeReceivables -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Qwen-CuR-Mercedes-Benz16,"The company purchases new inventory worth 150 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-01-01 * ""Purchase of new inventory on credit""
+  Liabilities:Current:ShortTermDebt -150 EUR
+  Assets:Current:Inventories -150 EUR","Invalid reference to unknown account 'Liabilities:Current:ShortTermDebt'
+Transaction does not balance: (-300 EUR)"
+Qwen-CuR-SAP01,"The company uses 500 EUR in cash to repay current financial liabilities.
+Effect: Positive
+
+","
+2024-01-01 * ""Repay current financial liabilities""
+  Liabilities:Current:FinancialLiabilities -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-CuR-SAP03,"The company receives 1000 EUR from customers, increasing cash and cash equivalents.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:TradeAndOtherPayables -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-CuR-SAP13,"The company receives 1000 EUR from customers, decreasing trade and other receivables.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:TradeAndOtherPayables -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-CuR-SAP17,"The company receives 1000 EUR from customers, decreasing trade and other receivables.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:Current:TradeAndOtherPayables -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-QR-Airbus04,"Airbus incurs 1000 EUR in new short-term debt, increasing the quick ratio.
+Effect: Positive
+
+","
+2024-01-01 * ""New short-term debt""
+  Liabilities:Current:ShortTermFinancingLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-QR-Airbus12,"Airbus incurs 1000 EUR in new provisions, reducing the quick ratio.
+Effect: Negative
+
+","
+2024-01-01 * ""New provisions""
+  Liabilities:Current:Provisions -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-QR-Airbus16,"Airbus incurs 1000 EUR in new tax liabilities, reducing the quick ratio.
+Effect: Negative
+
+","
+2024-01-01 * ""New tax liabilities""
+  Liabilities:Current:TaxLiabilities -1000 EUR
+  Assets:Current:CashAndCashEquivalents -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-QR-Airbus19,"Airbus collects 1000 EUR from held for sale liabilities, improving the quick ratio.
+Effect: Positive
+
+","
+2024-01-01 * ""Collect from held for sale liabilities""
+  Assets:Current:CashAndCashEquivalents -1000 EUR
+  Liabilities:HeldForSale -1000 EUR",Transaction does not balance: (-2000 EUR)
+Qwen-QR-Bayer02,"The company purchases new inventory worth 150 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-01-01 * ""Purchase of inventory on credit""
+  Liabilities:Current:FinancialLiabilities -150 EUR
+  Assets:Current:Inventories 150 EUR",
+Qwen-QR-Bayer07,"The company pays 50 EUR in cash to settle a contract liability.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay contract liability""
+  Liabilities:Current:ContractLiabilities -50 EUR
+  Assets:Current:CashAndCashEquivalents 50 EUR",
+Qwen-QR-Bayer10,"The company incurs 100 EUR in new income tax liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new income tax liabilities""
+  Liabilities:Current:IncomeTaxLiabilities -150 EUR
+  Assets:Current:CashAndCashEquivalents 150 EUR",
+Qwen-QR-Bayer12,"The company pays 100 EUR in cash to settle a trade payable.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay trade payable""
+  Liabilities:Current:TradeAccountsPayable -100 EUR
+  Assets:Current:CashAndCashEquivalents 100 EUR",
+Qwen-QR-Bayer14,"The company receives 100 EUR in cash from a customer, reducing claims for income tax refunds.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive cash from customer, reducing claims for income tax refunds""
+  Assets:Current:ClaimsForIncomeTaxRefunds -200 EUR
+  Assets:Current:CashAndCashEquivalents 200 EUR",
+Qwen-QR-Bayer15,"The company pays 50 EUR in cash to settle a contract liability.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay contract liability""
+  Liabilities:Current:ContractLiabilities -50 EUR
+  Assets:Current:CashAndCashEquivalents 50 EUR",
+Qwen-QR-Bayer18,"The company pays 100 EUR in cash to settle a trade accounts payable.
+Effect: Positive
+
+","
+2024-01-01 * ""Pay trade accounts payable""
+  Liabilities:Current:TradeAccountsPayable -100 EUR
+  Assets:Current:CashAndCashEquivalents 100 EUR",
+Qwen-QR-Bayer19,"The company incurs 150 EUR in new other provisions, increasing other liabilities.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new other provisions""
+  Liabilities:Current:OtherLiabilities -150 EUR
+  Assets:Current:CashAndCashEquivalents 150 EUR",
+Qwen-QR-Bayer20,"The company receives 100 EUR in cash from a customer, reducing deferred taxes.
+Effect: Positive","
+2024-01-01 * ""Receive cash from customer, reducing deferred taxes""
+  Assets:NonCurrent:DeferredTaxes -50 EUR
+  Assets:Current:CashAndCashEquivalents 50 EUR",
+Qwen-QR-Deutsche_Telekom10,"The company receives 500 EUR from customers, increasing cash and cash equivalents.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:TradeReceivables -500 EUR
+  Assets:Current:CashAndCashEquivalents -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-QR-Deutsche_Telekom11,"The company sells 200 EUR worth of inventory, reducing the current assets.
+Effect: Negative
+
+","
+2024-01-01 * ""Sell inventory""
+  Assets:Current:Inventories -200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",Transaction does not balance: (-400 EUR)
+Qwen-QR-Mercedes-Benz07,"The company uses 100 EUR in cash to repay current deferred income.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current deferred income""
+  Liabilities:Current:DeferredIncome -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Qwen-QR-Mercedes-Benz19,"The company uses 100 EUR in cash to repay current liabilities held for sale.
+Effect: Negative
+
+","
+2024-01-01 * ""Repay current liabilities held for sale""
+  Liabilities:Current:LiabilitiesHeldForSale -100 EUR
+  Assets:Current:CashAndCashEquivalents -100 EUR",Transaction does not balance: (-200 EUR)
+Qwen-QR-SAP02,"The company purchases new inventory worth 200 EUR on credit, increasing the short-term debt.
+Effect: Negative
+
+","
+2024-01-01 * ""Purchase of Inventory on Credit""
+  Liabilities:Current:TradeAndOtherPayables -200 EUR
+  Assets:Current:Inventories 200 EUR",Invalid reference to unknown account 'Assets:Current:Inventories'
+Qwen-QR-SAP07,"The company receives 500 EUR from customers, reducing trade and other receivables.
+Effect: Positive
+
+","
+2024-01-01 * ""Receive payment from customers""
+  Assets:Current:CashAndCashEquivalents -500 EUR
+  Liabilities:Current:TradeAndOtherPayables -500 EUR",Transaction does not balance: (-1000 EUR)
+Qwen-QR-SAP10,"The company incurs 200 EUR in new provisions, reducing trade and other payables.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new provisions""
+  Liabilities:Current:Provisions -200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",Transaction does not balance: (-400 EUR)
+Qwen-QR-SAP16,"The company sells 200 EUR worth of inventory, increasing cash and cash equivalents.
+Effect: Positive
+
+","
+2024-01-01 * ""Sell inventory""
+  Assets:Current:CashAndCashEquivalents -200 EUR
+  Assets:Current:TradeAndOtherReceivables -200 EUR",Transaction does not balance: (-400 EUR)
+Qwen-QR-SAP18,"The company incurs 200 EUR in new provisions, reducing cash and cash equivalents.
+Effect: Negative
+
+","
+2024-01-01 * ""Incur new provisions""
+  Liabilities:Current:Provisions -200 EUR
+  Assets:Current:CashAndCashEquivalents -200 EUR",Transaction does not balance: (-400 EUR)

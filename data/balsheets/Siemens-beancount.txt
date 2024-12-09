@@ -1,0 +1,79 @@
+; Opening balances
+2024-01-01 open Assets:Current:CashAndCashEquivalents
+2024-01-01 open Assets:Current:TradeAndOtherReceivables
+2024-01-01 open Assets:Current:OtherFinancialAssets
+2024-01-01 open Assets:Current:ContractAssets
+2024-01-01 open Assets:Current:Inventories
+2024-01-01 open Assets:Current:CurrentIncomeTaxAssets
+2024-01-01 open Assets:Current:OtherAssets
+2024-01-01 open Assets:Current:AssetsClassifiedAsHeldForDisposal
+
+2024-01-01 open Assets:NonCurrent:Goodwill
+2024-01-01 open Assets:NonCurrent:OtherIntangibleAssets
+2024-01-01 open Assets:NonCurrent:PropertyPlantAndEquipment
+2024-01-01 open Assets:NonCurrent:InvestmentsAccountedForUsingTheEquityMethod
+2024-01-01 open Assets:NonCurrent:OtherFinancialAssets
+2024-01-01 open Assets:NonCurrent:DeferredTaxAssets
+2024-01-01 open Assets:NonCurrent:OtherAssets
+
+
+2024-01-01 open Liabilities:Current:ShortTermDebtAndCurrentMaturitiesOfLongTermDebt
+2024-01-01 open Liabilities:Current:TradePayables
+2024-01-01 open Liabilities:Current:OtherFinancialLiabilities
+2024-01-01 open Liabilities:Current:ContractLiabilities
+2024-01-01 open Liabilities:Current:Provisions
+2024-01-01 open Liabilities:Current:IncomeTaxLiabilities
+2024-01-01 open Liabilities:Current:OtherLiabilities
+2024-01-01 open Liabilities:Current:LiabilitiesAssociatedWithAssetsClassifiedAsHeldForDisposal
+
+2024-01-01 open Liabilities:NonCurrent:LongTermDebt
+2024-01-01 open Liabilities:NonCurrent:ProvisionsForPensionsAndSimilarObligations
+2024-01-01 open Liabilities:NonCurrent:DeferredTaxLiabilities
+2024-01-01 open Liabilities:NonCurrent:Provisions
+2024-01-01 open Liabilities:NonCurrent:OtherFinancialLiabilities
+2024-01-01 open Liabilities:NonCurrent:OtherLiabilities
+
+2024-01-01 open Equity:IssuedCapital
+2024-01-01 open Equity:CapitalReserve
+2024-01-01 open Equity:RetainedEarnings
+2024-01-01 open Equity:OtherComponentsOfEquity
+2024-01-01 open Equity:TreasurySharesAtCost
+2024-01-01 open Equity:NonControllingInterests
+
+; Record balance sheet for assets for March 31, 2024
+2024-03-31 * "Balance Sheet for March 31, 2024"
+  Assets:Current:CashAndCashEquivalents                  7,715 EUR
+  Assets:Current:TradeAndOtherReceivables               17,159 EUR
+  Assets:Current:OtherFinancialAssets            11,161 EUR
+  Assets:Current:ContractAssets                          7,825 EUR
+  Assets:Current:Inventories                            12,400 EUR
+  Assets:Current:CurrentIncomeTaxAssets                  1,581 EUR
+  Assets:Current:OtherAssets                      1,725 EUR
+  Assets:Current:AssetsClassifiedAsHeldForDisposal        123 EUR
+  Assets:NonCurrent:Goodwill                               32,094 EUR
+  Assets:NonCurrent:OtherIntangibleAssets                  10,198 EUR
+  Assets:NonCurrent:PropertyPlantAndEquipment              12,114 EUR
+  Assets:NonCurrent:InvestmentsAccountedForUsingTheEquityMethod  1,182 EUR
+  Assets:NonCurrent:OtherFinancialAssets                   24,403 EUR
+  Assets:NonCurrent:DeferredTaxAssets                       2,566 EUR
+  Assets:NonCurrent:OtherAssets                             2,505 EUR
+  Liabilities:Current:ShortTermDebtAndCurrentMaturitiesOfLongTermDebt    -7,135 EUR
+  Liabilities:Current:TradePayables                                      -8,947 EUR
+  Liabilities:Current:OtherFinancialLiabilities                   -2,132 EUR
+  Liabilities:Current:ContractLiabilities                               -13,258 EUR
+  Liabilities:Current:Provisions                                  -2,449 EUR
+  Liabilities:Current:IncomeTaxLiabilities                        -1,753 EUR
+  Liabilities:Current:OtherLiabilities                            -6,690 EUR
+  Liabilities:Current:LiabilitiesAssociatedWithAssetsClassifiedAsHeldForDisposal  -38 EUR
+  Liabilities:NonCurrent:LongTermDebt                                     -43,316 EUR
+  Liabilities:NonCurrent:ProvisionsForPensionsAndSimilarObligations         -1,383 EUR
+  Liabilities:NonCurrent:DeferredTaxLiabilities                             -1,854 EUR
+  Liabilities:NonCurrent:Provisions                                         -1,387 EUR
+  Liabilities:NonCurrent:OtherFinancialLiabilities                         -1,108 EUR
+  Liabilities:NonCurrent:OtherLiabilities                                  -2,077 EUR
+  Equity:IssuedCapital                                           -2,400 EUR
+  Equity:CapitalReserve                                          -7,393 EUR
+  Equity:RetainedEarnings                                      -35,323 EUR
+  Equity:OtherComponentsOfEquity                                 -2,392 EUR
+  Equity:TreasurySharesAtCost					1,310
+  Equity:NonControllingInterests                                 -5,026 EUR

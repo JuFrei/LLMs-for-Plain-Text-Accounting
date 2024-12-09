@@ -1,0 +1,74 @@
+; Opening balances
+2024-01-01 open Assets:Current:CashAndCashEquivalents
+2024-01-01 open Assets:Current:OtherFinancialAssets
+2024-01-01 open Assets:Current:TradeAndOtherReceivables
+2024-01-01 open Assets:Current:OtherNonFinancialAssets
+2024-01-01 open Assets:Current:TaxAssets
+
+2024-01-01 open Assets:NonCurrent:Goodwill
+2024-01-01 open Assets:NonCurrent:IntangibleAssets
+2024-01-01 open Assets:NonCurrent:PropertyPlantAndEquipment
+2024-01-01 open Assets:NonCurrent:OtherFinancialAssets
+2024-01-01 open Assets:NonCurrent:TradeAndOtherReceivables
+2024-01-01 open Assets:NonCurrent:OtherNonFinancialAssets
+2024-01-01 open Assets:NonCurrent:TaxAssets
+2024-01-01 open Assets:NonCurrent:DeferredTaxAssets
+
+
+2024-01-01 open Liabilities:Current:TradeAndOtherPayables
+2024-01-01 open Liabilities:Current:TaxLiabilities
+2024-01-01 open Liabilities:Current:FinancialLiabilities
+2024-01-01 open Liabilities:Current:OtherNonFinancialLiabilities
+2024-01-01 open Liabilities:Current:Provisions
+2024-01-01 open Liabilities:Current:ContractLiabilities
+
+2024-01-01 open Liabilities:NonCurrent:TradeAndOtherPayables
+2024-01-01 open Liabilities:NonCurrent:TaxLiabilities
+2024-01-01 open Liabilities:NonCurrent:FinancialLiabilities
+2024-01-01 open Liabilities:NonCurrent:OtherNonFinancialLiabilities
+2024-01-01 open Liabilities:NonCurrent:Provisions
+2024-01-01 open Liabilities:NonCurrent:ContractLiabilities
+2024-01-01 open Liabilities:NonCurrent:DeferredTaxLiabilities
+
+2024-01-01 open Equity:IssuedCapital
+2024-01-01 open Equity:SharePremium
+2024-01-01 open Equity:RetainedEarnings
+2024-01-01 open Equity:OtherComponentsOfEquity
+2024-01-01 open Equity:TreasuryShares
+2024-01-01 open Equity:NonControllingInterests
+
+
+; Opening balances as of 03/31/2024
+2024-03-31 * "Opening Balances as of 03/31/2024"
+  Assets:Current:CashAndCashEquivalents        		9,295 EUR
+  Assets:Current:OtherFinancialAssets          		4,312 EUR
+  Assets:Current:TradeAndOtherReceivables      		7,435 EUR
+  Assets:Current:OtherNonFinancialAssets       		2,394 EUR
+  Assets:Current:TaxAssets                     		360 EUR
+  Assets:NonCurrent:Goodwill                   		29,558 EUR
+  Assets:NonCurrent:IntangibleAssets           		2,449 EUR
+  Assets:NonCurrent:PropertyPlantAndEquipment   	4,264 EUR
+  Assets:NonCurrent:OtherFinancialAssets       		5,687 EUR
+  Assets:NonCurrent:TradeAndOtherReceivables   		120 EUR
+  Assets:NonCurrent:OtherNonFinancialAssets    		3,555 EUR
+  Assets:NonCurrent:TaxAssets                  		362 EUR
+  Assets:NonCurrent:DeferredTaxAssets          		3,124 EUR
+  Liabilities:Current:TradeAndOtherPayables     	-1,926 EUR
+  Liabilities:Current:TaxLiabilities            	-623 EUR
+  Liabilities:Current:FinancialLiabilities     		-1,659 EUR
+  Liabilities:Current:OtherNonFinancialLiabilities  	-4,557 EUR
+  Liabilities:Current:Provisions              		-2,320 EUR
+  Liabilities:Current:ContractLiabilities      		-7,994 EUR
+  Liabilities:NonCurrent:TradeAndOtherPayables     	-32 EUR
+  Liabilities:NonCurrent:TaxLiabilities            	-773 EUR
+  Liabilities:NonCurrent:FinancialLiabilities     	-7,940 EUR
+  Liabilities:NonCurrent:OtherNonFinancialLiabilities  	-1,014 EUR
+  Liabilities:NonCurrent:Provisions               	-426 EUR
+  Liabilities:NonCurrent:ContractLiabilities      	-41 EUR
+  Liabilities:NonCurrent:DeferredTaxLiabilities  	-274 EUR
+  Equity:IssuedCapital         		                -1,229 EUR
+  Equity:SharePremium                   	        -2,048 EUR
+  Equity:RetainedEarnings               	        -41,630 EUR
+  Equity:OtherComponentsOfEquity        	        -3,183 EUR
+  Equity:TreasuryShares                     	  	+5,011 EUR
+  Equity:NonControllingInterests                 	-257 EUR

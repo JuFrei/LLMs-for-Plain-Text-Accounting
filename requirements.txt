@@ -1,0 +1,3 @@
+vllm==0.5.1
+pandas==2.2.2
+beancount==3.0.0

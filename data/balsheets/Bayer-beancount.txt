@@ -1,0 +1,76 @@
+; Opening balances
+2024-01-01 open Assets:Current:Inventories
+2024-01-01 open Assets:Current:TradeAccountsReceivable
+2024-01-01 open Assets:Current:OtherFinancialAssets
+2024-01-01 open Assets:Current:OtherReceivables
+2024-01-01 open Assets:Current:ClaimsForIncomeTaxRefunds
+2024-01-01 open Assets:Current:CashAndCashEquivalents
+2024-01-01 open Assets:Current:AssetsHeldForSale
+
+2024-01-01 open Assets:NonCurrent:Goodwill
+2024-01-01 open Assets:NonCurrent:OtherIntangibleAssets
+2024-01-01 open Assets:NonCurrent:PropertyPlantAndEquipment
+2024-01-01 open Assets:NonCurrent:InvestmentsAccountedUsingEquityMethod
+2024-01-01 open Assets:NonCurrent:OtherFinancialAssets
+2024-01-01 open Assets:NonCurrent:OtherReceivables
+2024-01-01 open Assets:NonCurrent:DeferredTaxes
+
+
+2024-01-01 open Liabilities:Current:OtherProvisions
+2024-01-01 open Liabilities:Current:RefundLiabilities
+2024-01-01 open Liabilities:Current:ContractLiabilities
+2024-01-01 open Liabilities:Current:FinancialLiabilities
+2024-01-01 open Liabilities:Current:TradeAccountsPayable
+2024-01-01 open Liabilities:Current:IncomeTaxLiabilities
+2024-01-01 open Liabilities:Current:OtherLiabilities
+
+2024-01-01 open Liabilities:NonCurrent:ProvisionsForPensionsAndOtherPostEmploymentBenefits
+2024-01-01 open Liabilities:NonCurrent:OtherProvisions
+2024-01-01 open Liabilities:NonCurrent:RefundLiabilities
+2024-01-01 open Liabilities:NonCurrent:ContractLiabilities
+2024-01-01 open Liabilities:NonCurrent:FinancialLiabilities
+2024-01-01 open Liabilities:NonCurrent:IncomeTaxLiabilities
+2024-01-01 open Liabilities:NonCurrent:OtherLiabilities
+2024-01-01 open Liabilities:NonCurrent:DeferredTaxes
+
+2024-01-01 open Equity:CapitalStock
+2024-01-01 open Equity:CapitalReserves
+2024-01-01 open Equity:OtherReserves
+2024-01-01 open Equity:EquityAttributableToNoncontrollingInterest
+
+
+; Opening balances as of 03/31/2024
+2024-03-31 * "Opening Balances as of 03/31/2024"
+  Assets:Current:Inventories                            13,437 EUR
+  Assets:Current:TradeAccountsReceivable                14,194 EUR
+  Assets:Current:OtherFinancialAssets                    4,197 EUR
+  Assets:Current:OtherReceivables                        2,069 EUR
+  Assets:Current:ClaimsForIncomeTaxRefunds               1,531 EUR
+  Assets:Current:CashAndCashEquivalents                  4,725 EUR
+  Assets:Current:AssetsHeldForSale                          14 EUR
+  Assets:NonCurrent:Goodwill                            32,763 EUR
+  Assets:NonCurrent:OtherIntangibleAssets               23,343 EUR
+  Assets:NonCurrent:PropertyPlantAndEquipment           13,472 EUR
+  Assets:NonCurrent:InvestmentsAccountedUsingEquityMethod 840 EUR
+  Assets:NonCurrent:OtherFinancialAssets                 2,362 EUR
+  Assets:NonCurrent:OtherReceivables                     1,198 EUR
+  Assets:NonCurrent:DeferredTaxes                        5,736 EUR
+  Liabilities:Current:OtherProvisions                   -3,416 EUR
+  Liabilities:Current:RefundLiabilities                 -8,009 EUR
+  Liabilities:Current:ContractLiabilities               -1,280 EUR
+  Liabilities:Current:FinancialLiabilities              -8,281 EUR
+  Liabilities:Current:TradeAccountsPayable              -6,398 EUR
+  Liabilities:Current:IncomeTaxLiabilities              -1,022 EUR
+  Liabilities:Current:OtherLiabilities                  -2,224 EUR  
+  Liabilities:NonCurrent:ProvisionsForPensionsAndOtherPostEmploymentBenefits -4,007 EUR
+  Liabilities:NonCurrent:OtherProvisions                -7,678 EUR
+  Liabilities:NonCurrent:RefundLiabilities                -107 EUR
+  Liabilities:NonCurrent:ContractLiabilities              -401 EUR
+  Liabilities:NonCurrent:FinancialLiabilities          -37,987 EUR
+  Liabilities:NonCurrent:IncomeTaxLiabilities           -1,599 EUR
+  Liabilities:NonCurrent:OtherLiabilities                 -927 EUR
+  Liabilities:NonCurrent:DeferredTaxes                    -783 EUR
+  Equity:CapitalStock                                   -2,515 EUR
+  Equity:CapitalReserves                               -18,261 EUR
+  Equity:OtherReserves                                 -14,829 EUR
+  Equity:EquityAttributableToNoncontrollingInterest        -157 EUR
