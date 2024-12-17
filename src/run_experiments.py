@@ -67,14 +67,14 @@ def generate_chat(user_input):
     # Append user prompt to chat_history
     chat_history.append({"role": "user", "content": user_input})
     
-    # Generate the LLM input based on tokenizer"s chat templates
+    # Generate the LLM input based on tokenizer's chat templates
     input = llm.llm_engine.tokenizer.tokenizer.apply_chat_template(chat_history, tokenize=False, add_generation_prompt=True)
     
     # Generate model answer as output
     outputs = llm.generate(input, sampling_params)
     llm_response = outputs[0].outputs[0].text
     
-    # Append the assistant"s response to chat_history
+    # Append the assistant's response to chat_history
     chat_history.append({"role": "assistant", "content": llm_response})
 
 def prompt_helper(prompt, key, description):
