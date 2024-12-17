@@ -63,6 +63,7 @@ pip install -r requirements.txt
 ```
 
 4. Storing Huggingface Token
+
 To access the models from Huggingface a token is needed, which has to be stored in a `HF_TOKEN` environmental variable.
 
 Example Linux (Temporary (Only for the Current Session)):
